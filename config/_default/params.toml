@@ -1,24 +1,24 @@
 #################### default parameters ################################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
-favicon = "images/favicon.png"
+favicon = "images/vc_logo_black.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/logo.png"
-logo_darkmode = "images/logo-darkmode.png"
+logo = "images/Logo_title_small_white_no_bg.png"
+logo_darkmode = "images/Logo_title_small_white_no_bg.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "160px"
-logo_height = "32px"
+logo_width = "313px"
+logo_height = "45px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "Venture Criminals"
 # navbar fixed to top
-navbar_fixed = true
+navbar_fixed = false
 # theme-mode
-theme_switcher = true
-theme_default = "system" # available options [light/dark/system]
+theme_switcher = false
+theme_default = "dark" # available options [light/dark/system]
 # Main Sections
-mainSections = ["blog"]
+mainSections = []#["blog"]
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -38,13 +38,13 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "JOIN US"
 link = "contact"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
-enable = true
+enable = false
 primary_color = "#121212"
 include_sections = ["blog"]
 show_image = true
@@ -55,17 +55,17 @@ show_categories = true
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
 [announcement]
-enable = true
+enable = false
 expire_days = 7
 content = "You must replace the **baseURL** in **hugo.toml** file when deploying, you can manage this announcement from the **params.toml** file."
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-image = "images/og-image.png"
+keywords = ["Startups", "Venture", "Capital", "Mafia", "Warsaw", "Warsaw Mafia", "Builders", "Indiehackers", "Solopreneurs"]
+description = "Join the Family and ship with the Mafia"
+author = "Venture Criminals"
+image = "images/links-image.png"
 
 
 # site verifications
@@ -91,7 +91,7 @@ js_url = 'https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs'
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["categories", "tags"]
+sidebar = []#["categories", "tags"]
 
 
 # google map

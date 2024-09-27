@@ -1,12 +1,34 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "we gather builders to ship cool shit together"
+  content: "you choose an idea to build.
+
+
+you join our Discord.
+
+
+you work.  
+
+
+you join coworking calls.  
+
+
+you get feedback.  
+
+
+you post updates.  
+
+
+you ship.
+
+
+.
+"
+  image: "/images/mafia_banner_bg.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "JOIN THE MAFIA"
     link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
