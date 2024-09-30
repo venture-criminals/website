@@ -5,38 +5,38 @@ banner:
   content: "you choose an idea to build.
 
 
-you join our Discord.
+            you join our Discord.
 
 
-you work.  
+            you work.  
 
 
-you join coworking calls.  
+            you join coworking calls.  
 
 
-you get feedback.  
+            you get feedback.  
 
 
-you post updates.  
+            you post updates.  
 
 
-you ship.
+            you ship.
 
 
-for free.
+            for free.
 
 
-for now.
+            for now.
 
 
 
-.
+            .
 "
   image: "/images/mafia_banner_bg.png"
   button:
     enable: true
     label: "JOIN THE MAFIA"
-    link: "#"
+    link: "https://www.subbb.me/venture-criminals"
 
 # Features
 features:
@@ -53,7 +53,7 @@ features:
     button:
       enable: true
       label: "MAKE IT A REALITY"
-      link: "#"
+      link: "https://www.subbb.me/venture-criminals"
 
   - title: "who do you want to become?"
     image: "/images/gangster_no_bg.png"
@@ -68,8 +68,7 @@ features:
     button:
       enable: true
       label: "SIGN THE BLOOD PACT"
-      link: "#"
+      link: "https://www.subbb.me/venture-criminals"
 
 
-call-to-action:
 ---
