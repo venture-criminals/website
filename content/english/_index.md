@@ -5,7 +5,7 @@ banner:
   content: "you choose an idea to build.
 
 
-            you join our Discord.
+            you join our discord.
 
 
             you work.  
@@ -47,7 +47,7 @@ features:
       - "create an app?"
       - "create a yt channel?"
       - "develop a game?"
-      - "raise money for scammy ai startup?"
+      - "raise money for a scammy ai startup?"
       - "produce music?"
       - "rob banks?"
     button:
@@ -61,7 +61,7 @@ features:
     bulletpoints:
       - "solopreneurs don't have to be alone."
       - "work with like-minded gangsters"
-      - "share feedback - get feedback"
+      - "get feedback & share feedback"
       - "start wearing 3-piece suits and fedoras"
       - "become ultra-rich maybe"
 
