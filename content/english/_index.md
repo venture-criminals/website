@@ -2,25 +2,38 @@
 # Banner
 banner:
   title: "we gather builders to ship cool shit together"
-  content: "you choose an idea to build.
+  content: "you're a chill af ambitious indie develeoper.
 
 
-            you join our discord.
+
+            you're building something crazy cool.
 
 
-            you work.  
+            you sneak into our discord server.
 
 
-            you join coworking calls.  
+            you work hard like a madman.
 
 
-            you get feedback.  
+            you go to cowork sessions.
 
 
-            you post updates.  
+            you exchange feedback.
 
 
-            you ship.
+            you share progress.
+
+
+            you ship products.
+
+
+            you keep going.
+            
+
+            you succeed.
+
+
+            you're free
 
 
             for free.
