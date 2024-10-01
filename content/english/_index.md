@@ -43,7 +43,7 @@ banner:
 
 
 
-            .
+            ㅤ
 "
   image: "/images/mafia_banner_bg.png"
   button:
